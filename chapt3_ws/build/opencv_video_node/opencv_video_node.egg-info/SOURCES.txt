@@ -1,0 +1,13 @@
+package.xml
+setup.cfg
+setup.py
+opencv_video_node/__init__.py
+opencv_video_node/video_publisher.py
+opencv_video_node.egg-info/PKG-INFO
+opencv_video_node.egg-info/SOURCES.txt
+opencv_video_node.egg-info/dependency_links.txt
+opencv_video_node.egg-info/entry_points.txt
+opencv_video_node.egg-info/requires.txt
+opencv_video_node.egg-info/top_level.txt
+opencv_video_node.egg-info/zip-safe
+resource/opencv_video_node

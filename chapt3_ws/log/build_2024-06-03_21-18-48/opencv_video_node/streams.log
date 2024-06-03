@@ -1,0 +1,26 @@
+[1.257s] Invoking command in '/home/dbink/d2lros2/chapt3/chapt3_ws/build/opencv_video_node': PYTHONPATH=/home/dbink/d2lros2/chapt3/chapt3_ws/build/opencv_video_node/prefix_override:/home/dbink/d2lros2/chapt3/chapt3_ws/install/opencv_video_node/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/dbink/d2lros2/chapt3/chapt3_ws/build/opencv_video_node/build --no-deps symlink_data
+[1.562s] running develop
+[1.562s] /usr/lib/python3/dist-packages/setuptools/command/easy_install.py:158: EasyInstallDeprecationWarning: easy_install command is deprecated. Use build and pip and other standards-based tools.
+[1.562s]   warnings.warn(
+[1.720s] running egg_info
+[1.721s] creating opencv_video_node.egg-info
+[1.721s] writing opencv_video_node.egg-info/PKG-INFO
+[1.722s] writing dependency_links to opencv_video_node.egg-info/dependency_links.txt
+[1.723s] writing entry points to opencv_video_node.egg-info/entry_points.txt
+[1.723s] writing requirements to opencv_video_node.egg-info/requires.txt
+[1.723s] writing top-level names to opencv_video_node.egg-info/top_level.txt
+[1.723s] writing manifest file 'opencv_video_node.egg-info/SOURCES.txt'
+[1.724s] reading manifest file 'opencv_video_node.egg-info/SOURCES.txt'
+[1.724s] writing manifest file 'opencv_video_node.egg-info/SOURCES.txt'
+[1.725s] running build_ext
+[1.725s] Creating /home/dbink/d2lros2/chapt3/chapt3_ws/install/opencv_video_node/lib/python3.10/site-packages/opencv-video-node.egg-link (link to .)
+[1.726s] Installing video_publisher script to /home/dbink/d2lros2/chapt3/chapt3_ws/install/opencv_video_node/lib/opencv_video_node
+[1.726s] 
+[1.726s] Installed /home/dbink/d2lros2/chapt3/chapt3_ws/build/opencv_video_node
+[1.727s] running symlink_data
+[1.727s] creating /home/dbink/d2lros2/chapt3/chapt3_ws/install/opencv_video_node/share/ament_index
+[1.728s] creating /home/dbink/d2lros2/chapt3/chapt3_ws/install/opencv_video_node/share/ament_index/resource_index
+[1.728s] creating /home/dbink/d2lros2/chapt3/chapt3_ws/install/opencv_video_node/share/ament_index/resource_index/packages
+[1.729s] symbolically linking /home/dbink/d2lros2/chapt3/chapt3_ws/build/opencv_video_node/resource/opencv_video_node -> /home/dbink/d2lros2/chapt3/chapt3_ws/install/opencv_video_node/share/ament_index/resource_index/packages
+[1.730s] symbolically linking /home/dbink/d2lros2/chapt3/chapt3_ws/build/opencv_video_node/package.xml -> /home/dbink/d2lros2/chapt3/chapt3_ws/install/opencv_video_node/share/opencv_video_node
+[1.769s] Invoked command in '/home/dbink/d2lros2/chapt3/chapt3_ws/build/opencv_video_node' returned '0': PYTHONPATH=/home/dbink/d2lros2/chapt3/chapt3_ws/build/opencv_video_node/prefix_override:/home/dbink/d2lros2/chapt3/chapt3_ws/install/opencv_video_node/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/dbink/d2lros2/chapt3/chapt3_ws/build/opencv_video_node/build --no-deps symlink_data

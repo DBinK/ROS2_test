@@ -1,0 +1,3 @@
+[console_scripts]
+image_subscriber = opencv_image_viewer.image_subscriber:main
+

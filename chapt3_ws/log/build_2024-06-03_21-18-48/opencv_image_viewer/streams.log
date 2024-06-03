@@ -1,0 +1,26 @@
+[1.257s] Invoking command in '/home/dbink/d2lros2/chapt3/chapt3_ws/build/opencv_image_viewer': PYTHONPATH=/home/dbink/d2lros2/chapt3/chapt3_ws/build/opencv_image_viewer/prefix_override:/home/dbink/d2lros2/chapt3/chapt3_ws/install/opencv_image_viewer/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/dbink/d2lros2/chapt3/chapt3_ws/build/opencv_image_viewer/build --no-deps symlink_data
+[1.544s] running develop
+[1.544s] /usr/lib/python3/dist-packages/setuptools/command/easy_install.py:158: EasyInstallDeprecationWarning: easy_install command is deprecated. Use build and pip and other standards-based tools.
+[1.544s]   warnings.warn(
+[1.681s] running egg_info
+[1.681s] creating opencv_image_viewer.egg-info
+[1.681s] writing opencv_image_viewer.egg-info/PKG-INFO
+[1.681s] writing dependency_links to opencv_image_viewer.egg-info/dependency_links.txt
+[1.681s] writing entry points to opencv_image_viewer.egg-info/entry_points.txt
+[1.681s] writing requirements to opencv_image_viewer.egg-info/requires.txt
+[1.682s] writing top-level names to opencv_image_viewer.egg-info/top_level.txt
+[1.682s] writing manifest file 'opencv_image_viewer.egg-info/SOURCES.txt'
+[1.684s] reading manifest file 'opencv_image_viewer.egg-info/SOURCES.txt'
+[1.684s] writing manifest file 'opencv_image_viewer.egg-info/SOURCES.txt'
+[1.686s] running build_ext
+[1.686s] Creating /home/dbink/d2lros2/chapt3/chapt3_ws/install/opencv_image_viewer/lib/python3.10/site-packages/opencv-image-viewer.egg-link (link to .)
+[1.687s] Installing image_subscriber script to /home/dbink/d2lros2/chapt3/chapt3_ws/install/opencv_image_viewer/lib/opencv_image_viewer
+[1.688s] 
+[1.688s] Installed /home/dbink/d2lros2/chapt3/chapt3_ws/build/opencv_image_viewer
+[1.688s] running symlink_data
+[1.688s] creating /home/dbink/d2lros2/chapt3/chapt3_ws/install/opencv_image_viewer/share/ament_index
+[1.689s] creating /home/dbink/d2lros2/chapt3/chapt3_ws/install/opencv_image_viewer/share/ament_index/resource_index
+[1.689s] creating /home/dbink/d2lros2/chapt3/chapt3_ws/install/opencv_image_viewer/share/ament_index/resource_index/packages
+[1.689s] symbolically linking /home/dbink/d2lros2/chapt3/chapt3_ws/build/opencv_image_viewer/resource/opencv_image_viewer -> /home/dbink/d2lros2/chapt3/chapt3_ws/install/opencv_image_viewer/share/ament_index/resource_index/packages
+[1.689s] symbolically linking /home/dbink/d2lros2/chapt3/chapt3_ws/build/opencv_image_viewer/package.xml -> /home/dbink/d2lros2/chapt3/chapt3_ws/install/opencv_image_viewer/share/opencv_image_viewer
+[1.727s] Invoked command in '/home/dbink/d2lros2/chapt3/chapt3_ws/build/opencv_image_viewer' returned '0': PYTHONPATH=/home/dbink/d2lros2/chapt3/chapt3_ws/build/opencv_image_viewer/prefix_override:/home/dbink/d2lros2/chapt3/chapt3_ws/install/opencv_image_viewer/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/dbink/d2lros2/chapt3/chapt3_ws/build/opencv_image_viewer/build --no-deps symlink_data

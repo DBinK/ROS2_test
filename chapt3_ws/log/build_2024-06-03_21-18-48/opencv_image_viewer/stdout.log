@@ -1,0 +1,22 @@
+running develop
+running egg_info
+creating opencv_image_viewer.egg-info
+writing opencv_image_viewer.egg-info/PKG-INFO
+writing dependency_links to opencv_image_viewer.egg-info/dependency_links.txt
+writing entry points to opencv_image_viewer.egg-info/entry_points.txt
+writing requirements to opencv_image_viewer.egg-info/requires.txt
+writing top-level names to opencv_image_viewer.egg-info/top_level.txt
+writing manifest file 'opencv_image_viewer.egg-info/SOURCES.txt'
+reading manifest file 'opencv_image_viewer.egg-info/SOURCES.txt'
+writing manifest file 'opencv_image_viewer.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/dbink/d2lros2/chapt3/chapt3_ws/install/opencv_image_viewer/lib/python3.10/site-packages/opencv-image-viewer.egg-link (link to .)
+Installing image_subscriber script to /home/dbink/d2lros2/chapt3/chapt3_ws/install/opencv_image_viewer/lib/opencv_image_viewer
+
+Installed /home/dbink/d2lros2/chapt3/chapt3_ws/build/opencv_image_viewer
+running symlink_data
+creating /home/dbink/d2lros2/chapt3/chapt3_ws/install/opencv_image_viewer/share/ament_index
+creating /home/dbink/d2lros2/chapt3/chapt3_ws/install/opencv_image_viewer/share/ament_index/resource_index
+creating /home/dbink/d2lros2/chapt3/chapt3_ws/install/opencv_image_viewer/share/ament_index/resource_index/packages
+symbolically linking /home/dbink/d2lros2/chapt3/chapt3_ws/build/opencv_image_viewer/resource/opencv_image_viewer -> /home/dbink/d2lros2/chapt3/chapt3_ws/install/opencv_image_viewer/share/ament_index/resource_index/packages
+symbolically linking /home/dbink/d2lros2/chapt3/chapt3_ws/build/opencv_image_viewer/package.xml -> /home/dbink/d2lros2/chapt3/chapt3_ws/install/opencv_image_viewer/share/opencv_image_viewer

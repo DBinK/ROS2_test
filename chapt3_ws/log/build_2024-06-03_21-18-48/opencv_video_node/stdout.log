@@ -1,0 +1,22 @@
+running develop
+running egg_info
+creating opencv_video_node.egg-info
+writing opencv_video_node.egg-info/PKG-INFO
+writing dependency_links to opencv_video_node.egg-info/dependency_links.txt
+writing entry points to opencv_video_node.egg-info/entry_points.txt
+writing requirements to opencv_video_node.egg-info/requires.txt
+writing top-level names to opencv_video_node.egg-info/top_level.txt
+writing manifest file 'opencv_video_node.egg-info/SOURCES.txt'
+reading manifest file 'opencv_video_node.egg-info/SOURCES.txt'
+writing manifest file 'opencv_video_node.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/dbink/d2lros2/chapt3/chapt3_ws/install/opencv_video_node/lib/python3.10/site-packages/opencv-video-node.egg-link (link to .)
+Installing video_publisher script to /home/dbink/d2lros2/chapt3/chapt3_ws/install/opencv_video_node/lib/opencv_video_node
+
+Installed /home/dbink/d2lros2/chapt3/chapt3_ws/build/opencv_video_node
+running symlink_data
+creating /home/dbink/d2lros2/chapt3/chapt3_ws/install/opencv_video_node/share/ament_index
+creating /home/dbink/d2lros2/chapt3/chapt3_ws/install/opencv_video_node/share/ament_index/resource_index
+creating /home/dbink/d2lros2/chapt3/chapt3_ws/install/opencv_video_node/share/ament_index/resource_index/packages
+symbolically linking /home/dbink/d2lros2/chapt3/chapt3_ws/build/opencv_video_node/resource/opencv_video_node -> /home/dbink/d2lros2/chapt3/chapt3_ws/install/opencv_video_node/share/ament_index/resource_index/packages
+symbolically linking /home/dbink/d2lros2/chapt3/chapt3_ws/build/opencv_video_node/package.xml -> /home/dbink/d2lros2/chapt3/chapt3_ws/install/opencv_video_node/share/opencv_video_node

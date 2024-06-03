@@ -1,0 +1,3 @@
+[console_scripts]
+video_publisher = opencv_video_node.video_publisher:main
+
